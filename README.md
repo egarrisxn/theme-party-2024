@@ -49,7 +49,7 @@ Contributions are welcome! If you have ideas for new themes, features, or improv
 
 ## Feedback
 
-I welcome feedback! If you have any suggestions, feature requests, or encounter any issues, please [open an issue](https://github.com/egarrisxn/vite-theme-party/issues) on GitHub.
+I welcome feedback! If you have any suggestions, feature requests, or encounter any issues, please [open an issue](https://github.com/egarrisxn/theme-party-2024/issues) on GitHub.
 
 ## License
 
