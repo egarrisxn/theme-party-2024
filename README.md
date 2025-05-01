@@ -6,11 +6,9 @@
 
 ## Description
 
-Vite Theme Party is a versatile theme playground application that allows you to experiment with different themes and see how they interact with each other. Built using Vite for fast development, HTML5, CSS3, and JavaScript, it offers an interactive environment where you can switch between various themes seamlessly.
+Vite Theme Party is a versatile theme playground application that allows you to experiment with different themes and see how they interact with each other. Built using Vite for fast development, HTML5, CSS3, and JavaScript, it offers an interactive environment where you can switch between various themes seamlessly. Test it out for yourself: [Vite Theme Party Live Demo](https://vite-theme-party.netlify.app/)
 
-Test it out for yourself: [Vite Theme Party Live Demo](https://vite-theme-party.netlify.app/)
-
-*Note* This project was initially inspired by some open-source work I stumbled upon and forgot to mention the author. If that could of been you, PLEASE reach out to me so I can update that and thank you.
+*Note: This project was originally inspired by some open-source work I came across. Unfortunately, I didn’t note the original author at the time. If you believe it was your work, please feel free to reach out — I’d love to give proper credit and express my thanks!*
 
 ## Technologies Used
 
